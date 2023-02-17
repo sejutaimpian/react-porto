@@ -51,35 +51,35 @@ function Navigasi() {
             className='flex justify-center flex-col items-center px-2 py-2 hover:bg-zinc-700 relative'
           >
             <IconHome />
-            <div className='text-sm'>Home</div>
+            <div className='text-sm hidden xs:block'>Home</div>
           </a>
           <a
             href='#'
             className='flex justify-center flex-col items-center px-2 py-2 hover:bg-zinc-700 relative'
           >
             <IconUser />
-            <div className='text-sm'>About Me</div>
+            <div className='text-sm hidden xs:block'>About Me</div>
           </a>
           <a
             href='#'
             className='flex justify-center flex-col items-center px-2 py-2 hover:bg-zinc-700 relative'
           >
             <IconKeyboard />
-            <div className='text-sm'>Skills</div>
+            <div className='text-sm hidden xs:block'>Skills</div>
           </a>
           <a
             href='#'
             className='flex justify-center flex-col items-center px-2 py-2 hover:bg-zinc-700 relative'
           >
             <IconBriefcase />
-            <div className='text-sm'>Projects</div>
+            <div className='text-sm hidden xs:block'>Projects</div>
           </a>
           <a
             href='#'
             className='flex justify-center flex-col items-center px-2 py-2 hover:bg-zinc-700 relative'
           >
             <IconCertificate />
-            <div className='text-sm'>Certificates</div>
+            <div className='text-sm hidden xs:block'>Certificates</div>
           </a>
         </div>
       </div>
